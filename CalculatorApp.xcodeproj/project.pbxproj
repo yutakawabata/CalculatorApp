@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		500B4C8C246DA79900B90E7A /* NeumorphismExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500B4C8B246DA79900B90E7A /* NeumorphismExtension.swift */; };
-		500B4C8E246DA7BE00B90E7A /* NeumorphismButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500B4C8D246DA7BE00B90E7A /* NeumorphismButton.swift */; };
+		500B4C9024821A0000B90E7A /* SoftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500B4C8F24821A0000B90E7A /* SoftUIView.swift */; };
 		5048DB11243A00C00083A404 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048DB10243A00C00083A404 /* AppDelegate.swift */; };
 		5048DB13243A00C00083A404 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048DB12243A00C00083A404 /* SceneDelegate.swift */; };
 		5048DB15243A00C00083A404 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048DB14243A00C00083A404 /* ViewController.swift */; };
@@ -37,8 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		500B4C8B246DA79900B90E7A /* NeumorphismExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphismExtension.swift; sourceTree = "<group>"; };
-		500B4C8D246DA7BE00B90E7A /* NeumorphismButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphismButton.swift; sourceTree = "<group>"; };
+		500B4C8F24821A0000B90E7A /* SoftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoftUIView.swift; sourceTree = "<group>"; };
 		5048DB0D243A00C00083A404 /* CalculatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5048DB10243A00C00083A404 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5048DB12243A00C00083A404 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -111,8 +109,7 @@
 				5048DB19243A00C20083A404 /* Assets.xcassets */,
 				5048DB1B243A00C20083A404 /* LaunchScreen.storyboard */,
 				5048DB1E243A00C20083A404 /* Info.plist */,
-				500B4C8B246DA79900B90E7A /* NeumorphismExtension.swift */,
-				500B4C8D246DA7BE00B90E7A /* NeumorphismButton.swift */,
+				500B4C8F24821A0000B90E7A /* SoftUIView.swift */,
 			);
 			path = CalculatorApp;
 			sourceTree = "<group>";
@@ -266,10 +263,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				500B4C8E246DA7BE00B90E7A /* NeumorphismButton.swift in Sources */,
 				5048DB15243A00C00083A404 /* ViewController.swift in Sources */,
-				500B4C8C246DA79900B90E7A /* NeumorphismExtension.swift in Sources */,
 				5048DB11243A00C00083A404 /* AppDelegate.swift in Sources */,
+				500B4C9024821A0000B90E7A /* SoftUIView.swift in Sources */,
 				5048DB13243A00C00083A404 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
