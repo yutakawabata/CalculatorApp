@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		500B4C9024821A0000B90E7A /* SoftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500B4C8F24821A0000B90E7A /* SoftUIView.swift */; };
+		500CBABB2488F8E400F291B0 /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500CBABA2488F8E400F291B0 /* Label.swift */; };
+		500CBABD2488FDC400F291B0 /* Params.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500CBABC2488FDC400F291B0 /* Params.swift */; };
+		500CBABF2488FE0F00F291B0 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500CBABE2488FE0F00F291B0 /* Extensions.swift */; };
 		5048DB11243A00C00083A404 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048DB10243A00C00083A404 /* AppDelegate.swift */; };
 		5048DB13243A00C00083A404 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048DB12243A00C00083A404 /* SceneDelegate.swift */; };
 		5048DB15243A00C00083A404 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048DB14243A00C00083A404 /* ViewController.swift */; };
@@ -37,6 +40,9 @@
 
 /* Begin PBXFileReference section */
 		500B4C8F24821A0000B90E7A /* SoftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoftUIView.swift; sourceTree = "<group>"; };
+		500CBABA2488F8E400F291B0 /* Label.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Label.swift; sourceTree = "<group>"; };
+		500CBABC2488FDC400F291B0 /* Params.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Params.swift; sourceTree = "<group>"; };
+		500CBABE2488FE0F00F291B0 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		5048DB0D243A00C00083A404 /* CalculatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5048DB10243A00C00083A404 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5048DB12243A00C00083A404 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -110,6 +116,9 @@
 				5048DB1B243A00C20083A404 /* LaunchScreen.storyboard */,
 				5048DB1E243A00C20083A404 /* Info.plist */,
 				500B4C8F24821A0000B90E7A /* SoftUIView.swift */,
+				500CBABC2488FDC400F291B0 /* Params.swift */,
+				500CBABA2488F8E400F291B0 /* Label.swift */,
+				500CBABE2488FE0F00F291B0 /* Extensions.swift */,
 			);
 			path = CalculatorApp;
 			sourceTree = "<group>";
@@ -266,7 +275,10 @@
 				5048DB15243A00C00083A404 /* ViewController.swift in Sources */,
 				5048DB11243A00C00083A404 /* AppDelegate.swift in Sources */,
 				500B4C9024821A0000B90E7A /* SoftUIView.swift in Sources */,
+				500CBABD2488FDC400F291B0 /* Params.swift in Sources */,
+				500CBABB2488F8E400F291B0 /* Label.swift in Sources */,
 				5048DB13243A00C00083A404 /* SceneDelegate.swift in Sources */,
+				500CBABF2488FE0F00F291B0 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
